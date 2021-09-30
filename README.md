@@ -1,2 +1,2 @@
 # Emotion-Detection-using-Brain-EEG-Signals
-This project aims to detect emotional state of a person using discriminative Electroencephalography (EEG) signals. This is executed using machine learning algorithms based features and appropriate classification methods. It can categorise brainwave patterns based on their level of activity or frequency for mental state recognition useful for human-machine interaction.
+This dataset provides a set of features to categorise three different states: positive, negative and neutral. The sensor Muse Headband was used for data collection.
